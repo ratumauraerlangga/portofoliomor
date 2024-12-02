@@ -1,0 +1,305 @@
+body{
+    background-color:  rgb(219, 216, 180);
+}
+.navbar1{
+    color:  rgb(133, 137, 96);
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-block: 5px;
+}
+.headimg{
+    width: 100%;
+}
+.wraphead{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content:end;
+    border-radius: 2px ;
+    padding-top: 7px;
+    padding-right: 5px ;
+}
+.video{
+    color: rgb(133, 137, 96) ;
+    height: 35px;
+    width: 35%;
+    border: 2px solid rgb(133, 137, 96);
+    text-align: center;
+    border-radius: 10px;
+}
+.video:hover{
+    background-color:  rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+}
+.navbar2{
+    background-color: rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-block: 5px;
+}
+.imgbiodata{
+    height: 100%;
+    width:90% ;
+    margin-left: 17px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: 3px solid rgb(133, 137, 96);
+}
+.boxbiodata1{
+    height: 250px;
+    width: 85%;
+    border: 4px solid rgb(133, 137, 96);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 27px;
+}
+.biodata1{
+    color:rgb(133, 137, 96); 
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.biodata2{
+    color:rgb(133, 137, 96) ;
+    display: flex;
+}
+.biodataface{
+    height: 72%;
+    width: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    border: solid rgb(133, 137, 96);
+    margin-left: 7px    ;
+
+}
+.biodatamaur{
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 10px;
+}
+.biodatamaur2{
+    height: 100%;
+    display: flex;
+}
+.wrapskill{
+    height: 35px;
+    width: 45%;
+    border: 3px solid rgb(133, 137, 96);
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 6px;
+    margin-left: 47%;
+}   
+.textskill{
+    color:  rgb(133, 137, 96);
+    text-align: center;
+}
+.wrapskill2{
+    height: 210px;
+    width: 85%;
+    background-color: rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    border-radius: 10px;
+    border: 3px solid  rgb(233, 230, 194) ;
+    margin-left: 27px;
+}
+.textskill2{
+    margin-left: 10px;
+    padding-top: 13px;
+    margin-left: 14 px;
+    text-align: center;
+    justify-content: end;
+}
+.logo{
+    height: 30%;
+    width: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-left: 40px;
+    margin-top: -13px;
+    justify-content: center;
+}
+.skill1{
+    display: flex;
+    justify-content: center;
+}
+.contentskill{
+    justify-content: end;
+    margin-left: 9px;
+}
+.kontak{
+    background-color:  rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    height: 53px;
+    width: 87%;
+    margin-left: 24px;
+    padding-left: 3px;
+    
+    border-radius: 10px;
+    border: 3px solid  rgb(233, 230, 194) ;
+}
+.navbar3{
+    background-color: rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-block: 5px;
+    margin-top: 13px;
+}
+.ilustrasi{
+    background-color:  rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    height: 35px;
+    width: 87%;
+    text-align: center;
+    padding-top:5px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.wrapcard{
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 11px;
+    margin-left: 33px;
+    padding-left: 23PX;
+}
+.card1, .card2, .card3{
+    border: 4px solid rgb(133, 137, 96);
+    margin-block: 10px;
+    border-radius: 30px;
+    width: 300px;
+    height: 400px;
+}
+.card4, .card5, .card6{
+    width: 100%;
+    height: 100%;
+    border-radius: 30PX;
+}
+.poster{
+    background-color:  rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    height: 35px;
+    width: 87%;
+    text-align: center;
+    padding-top:5px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.wrapcard2{
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 11px;
+    margin-left: 33px;
+    padding-left: 23PX;
+}
+.card7, .card9{
+    border: 4px solid rgb(133, 137, 96);
+    margin-block: 10px;
+    border-radius: 30px;
+    width: 300px;
+    height: 400px;
+    
+}
+.card8, .card10{
+    width: 100%;
+    height: 100%;
+    border-radius: 30PX;
+}
+.uiux{
+    background-color:  rgb(133, 137, 96);
+    color: rgb(248, 242, 219);
+    height: 35px;
+    width: 87%;
+    text-align: center;
+    padding-top:5px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.wrapcard3{
+    border-radius: 10px;
+    margin-top: 11px;
+    margin-left: 33px;
+    padding-left: 23PX;
+}
+.card11, .card13{
+    background-color: white;
+    border: 4px solid rgb(133, 137, 96);
+    margin-block: 10px;
+    border-radius: 30px;
+    width: 300px;
+    height: 400px;
+    margin-left: 37px;
+}
+.card12, .card14{
+    width: 100%;
+    height: 100%;
+    border-radius: 30PX;
+}
+
+@media (min-width:550px) and (max-width: 800px) {
+    .card1, .card2, .card3{
+        border: 4px solid rgb(133, 137, 96);
+        margin-block: 10px;
+        border-radius: 30px;
+        width: 220px;
+        height: 300px;
+    }
+    .wrapfullcard1{
+        display: flex;
+        justify-content: center;
+    }
+    .wrapcard{
+        padding: 5px;
+        border-radius: 10px;
+        margin-top: 11px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .card7, .card9{
+        border: 4px solid rgb(133, 137, 96);
+        margin-block: 10px;
+        border-radius: 30px;
+        width: 220px;
+        height: 300px;
+    }
+    .wrapcard2{
+        padding: 5px;
+        border-radius: 10px;
+        margin-top: 11px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .wrapfullcard2{
+        display: flex;
+        justify-content: center;
+    }
+    .wrapcard3{
+        border-radius: 10px;
+        margin-top: 11px;
+        margin-left: -33px;
+        padding-left: 0px;
+    }
+    .card11, .card13{
+        background-color: white;
+        border: 4px solid rgb(133, 137, 96);
+        margin-block: 10px;
+        border-radius: 30px;
+        width: 220px;
+        height: 300px;
+        margin-left: 37px;
+    }
+    .wrapfullcard3{
+        display: flex;
+        justify-content: center;
+    }
+}
